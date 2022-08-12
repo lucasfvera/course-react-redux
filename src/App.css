@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  background-color: rgb(56, 56, 75);
+  color: whitesmoke;
+  padding: 1rem 10rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
+  align-items: center;
+}
